@@ -10,13 +10,15 @@
 
 <br>
 
-📬 **[Kontext](https://kontext.email/)**: statt Google Workspace. Mail, Kalender, Kontakte und Chat fürs Team.
+📒 **[Haben](https://haben.app/)**: Buchhaltung von der E-Rechnung bis ELSTER.
 
-📝 **[Schreibzeug](https://github.com/Speicherstadt/schreibzeug)**: statt Microsoft 365. Word, Excel und PowerPoint gemeinsam im Browser.
+📬 **[Kontext](https://kontext.email/)**: Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team.
 
-🗄️ **[Belegt](https://github.com/Speicherstadt/belegt)**: statt Aktenschrank. Dokumentenarchiv mit GoBD-Modus.
+📝 **[Schreibzeug](https://github.com/Speicherstadt/schreibzeug)**: Word, Excel, PowerPoint, PDF, Markdown/TXT gemeinsam im Browser.
 
-📒 **[Haben](https://haben.app/)**: statt lexoffice. Buchhaltung von der E-Rechnung bis ELSTER.
+🗄️ **[Belegt](https://github.com/Speicherstadt/belegt)**: Dokumentenarchiv mit GoBD-Modus.
+
+
 
 <br>
 
