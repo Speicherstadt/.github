@@ -4,7 +4,7 @@
 
 # Speicherstadt
 
-**Freihafen für freie Software: das Büro, das dir gehört.**
+**Freihafen für freie Software**
 
 </div>
 
