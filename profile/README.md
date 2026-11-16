@@ -4,7 +4,7 @@
 
 # Speicherstadt
 
-**Freihafen für freie Software. Zollfrei, selbst betrieben, ganz deins.**
+**Freihafen für freie Software: dein ganzes Büro auf deinem Server**
 
 </div>
 
