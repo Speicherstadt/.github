@@ -26,6 +26,7 @@ offen, auf deinem eigenen Server.
 | 📝 | **[Schreibzeug](https://github.com/Speicherstadt/schreibzeug)** | Word, Excel, PowerPoint, PDF und Markdown gemeinsam im Browser |
 | 🗄️ | **[Belegt](https://github.com/Speicherstadt/belegt)** | Dokumentenarchiv mit GoBD-Modus |
 | 📐 | **[Fixpunkt](https://github.com/Speicherstadt/fixpunkt)** | Aufmaß und Baustellendokumentation aus Drohnenflügen, vom Flug zur abrechenbaren Menge |
+| 🔁 | **[Stellwerk](https://github.com/Speicherstadt/stellwerk)** | Syncthing auf allen Geräten von einer Stelle aus verwalten |
 
 ## Gebaut, um zusammenzuspielen
 
