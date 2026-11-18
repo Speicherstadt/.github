@@ -4,7 +4,7 @@
 
 # Speicherstadt
 
-**Bürosoftware für den Mittelstand, entstanden aus echten Kundenprojekten, betrieben auf deinem Server.**
+**Software für den Mittelstand, entstanden aus echten Kundenprojekten, betrieben auf deinem Server.**
 
 <sub>Selbst gehostet · Open Source · keine Kosten pro Nutzer · deine Daten lagern bei dir</sub>
 
@@ -19,12 +19,13 @@ offen, auf deinem eigenen Server.
 
 ## Die Lagerhäuser
 
-| | Projekt | Wofür | Ersetzt etwa |
-|---|---|---|---|
-| 📒 | **[Haben](https://haben.app/)** | Buchhaltung von der E-Rechnung bis ELSTER | <!-- z.B. lexoffice, sevDesk --> |
-| 📬 | **[Kontext](https://kontext.email/)** | Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team | Google Workspace, Microsoft 365 |
-| 📝 | **[Schreibzeug](https://github.com/Speicherstadt/schreibzeug)** | Word, Excel, PowerPoint, PDF und Markdown gemeinsam im Browser | Google Docs, Office Online |
-| 🗄️ | **[Belegt](https://github.com/Speicherstadt/belegt)** | Dokumentenarchiv mit GoBD-Modus | <!-- z.B. ecoDMS --> |
+| | Projekt | Wofür |
+|---|---|---|
+| 📒 | **[Haben](https://haben.app/)** | Buchhaltung von der E-Rechnung bis ELSTER |
+| 📬 | **[Kontext](https://kontext.email/)** | Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team |
+| 📝 | **[Schreibzeug](https://github.com/Speicherstadt/schreibzeug)** | Word, Excel, PowerPoint, PDF und Markdown gemeinsam im Browser |
+| 🗄️ | **[Belegt](https://github.com/Speicherstadt/belegt)** | Dokumentenarchiv mit GoBD-Modus |
+| 📐 | **[Fixpunkt](https://github.com/Speicherstadt/fixpunkt)** | Aufmaß und Baustellendokumentation aus Drohnenflügen, vom Flug zur abrechenbaren Menge |
 
 ## Gebaut, um zusammenzuspielen
 
@@ -34,16 +35,16 @@ offen, auf deinem eigenen Server.
 
 ## Grundsätze
 
-- 📂 **Deine Dateien bleiben Dateien:** .docx, .xlsx, PDF, kein eigenes Format, das dich festhält.
-- 🔓 **Open Source (AGPL):** Du kannst den Code lesen, betreiben und verbessern.
+- 📂 **Deine Daten bleiben bei dir:** auf deinem Server, in offenen Formaten, kein Cloud-Abo.
+- 🔓 **Open Source:** Du kannst den Code lesen, betreiben und verbessern.
 - 💶 **Keine Kosten pro Nutzer:** Ob 5 oder 500 Leute, der Server ist derselbe.
-- 🇩🇪 **Für den deutschen Alltag:** GoBD, ELSTER, E-Rechnung, die Oberfläche auf Deutsch und Englisch.
-- 🐳 **Ein `docker compose up`:** Jedes Projekt läuft mit einer Compose-Datei auf deinem Server.
+- 🇩🇪 **Für den deutschen Alltag:** GoBD, ELSTER, E-Rechnung, GAEB, amtliche Koordinaten.
+- 🐳 **Läuft mit Docker:** auf jedem Linux-Server, NAS oder Mini-PC.
 
 <br>
 
 <div align="center">
 
-<sub>Gebaut von Tristan Teufel & Contributors · <!-- Kontakt für Unternehmen --></sub>
+<sub>Gebaut von Tristan Teufel & Contributors</sub>
 
 </div>
