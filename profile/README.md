@@ -19,14 +19,17 @@ offen, auf deinem eigenen Server.
 
 ## Die Lagerhäuser
 
-| | Projekt | Wofür |
-|---|---|---|
-| 📒 | **[Haben](https://haben.app/)** | Buchhaltung von der E-Rechnung bis ELSTER |
-| 📬 | **[Kontext](https://kontext.email/)** | Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team |
-| 📝 | **[Schreibzeug](https://github.com/Speicherstadt/schreibzeug)** | Word, Excel, PowerPoint, PDF und Markdown gemeinsam im Browser |
-| 🗄️ | **[Belegt](https://github.com/Speicherstadt/belegt)** | Dokumentenarchiv mit GoBD-Modus |
-| 📐 | **[Fixpunkt](https://github.com/Speicherstadt/fixpunkt)** | Aufmaß und Baustellendokumentation aus Drohnenflügen, vom Flug zur abrechenbaren Menge |
-| 🔁 | **[Stellwerk](https://github.com/Speicherstadt/stellwerk)** | Syncthing auf allen Geräten von einer Stelle aus verwalten |
+Jedes Projekt hat eine eigene Webseite mit Anleitung; der Code liegt hier auf GitHub. Alle zusammen
+auf **[speicherstadt.app](https://speicherstadt.app/)**.
+
+| | Projekt | Wofür | Code |
+|---|---|---|---|
+| 📒 | **[Haben](https://haben.app/)** | Buchhaltung von der E-Rechnung bis ELSTER | [haben](https://github.com/firsttris/haben) |
+| 📬 | **[Kontext](https://kontext.email/)** | Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team | [kontext](https://github.com/firsttris/kontext) |
+| 📝 | **[Schreibzeug](https://schreibzeug.app/)** | Word, Excel, PowerPoint, PDF und Markdown gemeinsam im Browser | [schreibzeug](https://github.com/Speicherstadt/schreibzeug) |
+| 🗄️ | **[Belegt](https://belegt.net/)** | Dokumentenarchiv mit GoBD-Modus | [belegt](https://github.com/Speicherstadt/belegt) |
+| 📐 | **[Fixpunkt](https://speicherstadt.app/fixpunkt/)** | Aufmaß und Baustellendokumentation aus Drohnenflügen, vom Flug zur abrechenbaren Menge | [fixpunkt](https://github.com/Speicherstadt/fixpunkt) |
+| 🔁 | **[Stellwerk](https://speicherstadt.app/stellwerk/)** | Syncthing auf allen Geräten von einer Stelle aus verwalten | [stellwerk](https://github.com/Speicherstadt/stellwerk) |
 
 ## Gebaut, um zusammenzuspielen
 
