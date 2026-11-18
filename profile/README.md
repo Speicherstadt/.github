@@ -25,7 +25,7 @@ auf **[speicherstadt.app](https://speicherstadt.app/)**.
 | | Projekt | Wofür | Code |
 |---|---|---|---|
 | 📒 | **[Haben](https://haben.app/)** | Buchhaltung von der E-Rechnung bis ELSTER | [haben](https://github.com/firsttris/haben) |
-| 📬 | **[Kontext](https://kontext.email/)** | Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team | [kontext](https://github.com/firsttris/kontext) |
+| 📬 | **[Kontext](https://kontext.email/)** | Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team | [kontext](https://github.com/Speicherstadt/kontext) |
 | 📝 | **[Schreibzeug](https://schreibzeug.app/)** | Word, Excel, PowerPoint, PDF und Markdown gemeinsam im Browser | [schreibzeug](https://github.com/Speicherstadt/schreibzeug) |
 | 🗄️ | **[Belegt](https://belegt.net/)** | Dokumentenarchiv mit GoBD-Modus | [belegt](https://github.com/Speicherstadt/belegt) |
 | 📐 | **[Fixpunkt](https://speicherstadt.app/fixpunkt/)** | Aufmaß und Baustellendokumentation aus Drohnenflügen, vom Flug zur abrechenbaren Menge | [fixpunkt](https://github.com/Speicherstadt/fixpunkt) |
