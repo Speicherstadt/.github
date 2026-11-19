@@ -47,9 +47,9 @@ auf **[speicherstadt.app](https://speicherstadt.app/)**.
 
 ## Für IT-Dienstleister und Hoster
 
-Wer die Apps bei seinen Kunden einrichtet und betreut, kann Partner werden: direkter Draht zur Entwicklung, Hinweise
-auf Releases vorab, Einarbeitung. Die Apps gibt es außerdem als gehosteten Betrieb. Mehr unter
-**[speicherstadt.app/partner](https://speicherstadt.app/partner/)**.
+Wer die Apps bei seinen Kunden einrichtet und betreut, kann Partner werden: Anfragen aus der Region, direkter Draht
+zur Entwicklung, Hilfe beim Umzug, Schulung und Entwicklung im Auftrag. Die Apps gibt es außerdem im gehosteten Betrieb.
+Mehr unter **[speicherstadt.app/partner](https://speicherstadt.app/partner/)**.
 
 <br>
 
