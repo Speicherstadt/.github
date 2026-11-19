@@ -45,6 +45,12 @@ auf **[speicherstadt.app](https://speicherstadt.app/)**.
 - 🇩🇪 **Für den deutschen Alltag:** GoBD, ELSTER, E-Rechnung, GAEB, amtliche Koordinaten.
 - 🐳 **Läuft mit Docker:** auf jedem Linux-Server, NAS oder Mini-PC.
 
+## Für IT-Dienstleister und Hoster
+
+Wer die Apps bei seinen Kunden einrichtet und betreut, kann Partner werden: direkter Draht zur Entwicklung, Hinweise
+auf Releases vorab, Einarbeitung. Die Apps gibt es außerdem als gehosteten Betrieb. Mehr unter
+**[speicherstadt.app/partner](https://speicherstadt.app/partner/)**.
+
 <br>
 
 <div align="center">
