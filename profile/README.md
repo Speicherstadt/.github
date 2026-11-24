@@ -20,7 +20,7 @@ offen, auf deinem eigenen Server.
 ## Die Lagerhäuser
 
 Jedes Projekt hat eine eigene Webseite mit Anleitung; der Code liegt hier auf GitHub. Alle zusammen
-auf **[speicherstadt.app](https://speicherstadt.app/)**.
+auf **[speicherstadt.org](https://speicherstadt.org/)**.
 
 | | Projekt | Wofür | Code |
 |---|---|---|---|
@@ -28,8 +28,8 @@ auf **[speicherstadt.app](https://speicherstadt.app/)**.
 | 📬 | **[Kontext](https://kontext.email/)** | Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team | [kontext](https://github.com/Speicherstadt/kontext) |
 | 📝 | **[Schreibzeug](https://schreibzeug.app/)** | Word, Excel, PowerPoint, PDF und Markdown gemeinsam im Browser | [schreibzeug](https://github.com/Speicherstadt/schreibzeug) |
 | 🗄️ | **[Belegt](https://belegt.net/)** | Dokumentenarchiv mit GoBD-Modus | [belegt](https://github.com/Speicherstadt/belegt) |
-| 📐 | **[Fixpunkt](https://speicherstadt.app/fixpunkt/)** | Aufmaß und Baustellendokumentation aus Drohnenflügen, vom Flug zur abrechenbaren Menge | [fixpunkt](https://github.com/Speicherstadt/fixpunkt) |
-| 🔁 | **[Stellwerk](https://speicherstadt.app/stellwerk/)** | Syncthing auf allen Geräten von einer Stelle aus verwalten | [stellwerk](https://github.com/Speicherstadt/stellwerk) |
+| 📐 | **[Fixpunkt](https://speicherstadt.org/fixpunkt/)** | Aufmaß und Baustellendokumentation aus Drohnenflügen, vom Flug zur abrechenbaren Menge | [fixpunkt](https://github.com/Speicherstadt/fixpunkt) |
+| 🔁 | **[Stellwerk](https://speicherstadt.org/stellwerk/)** | Syncthing auf allen Geräten von einer Stelle aus verwalten | [stellwerk](https://github.com/Speicherstadt/stellwerk) |
 
 ## Gebaut, um zusammenzuspielen
 
@@ -49,7 +49,7 @@ auf **[speicherstadt.app](https://speicherstadt.app/)**.
 
 Wer die Apps bei seinen Kunden einrichtet und betreut, kann Partner werden: Anfragen aus der Region, direkter Draht
 zur Entwicklung, Hilfe beim Umzug, Schulung und Entwicklung im Auftrag. Die Apps gibt es außerdem im gehosteten Betrieb.
-Mehr unter **[speicherstadt.app/partner](https://speicherstadt.app/partner/)**.
+Mehr unter **[speicherstadt.org/partner](https://speicherstadt.org/partner/)**.
 
 <br>
 
