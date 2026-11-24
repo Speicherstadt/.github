@@ -73,17 +73,9 @@ Aufmaß und Baudokumentation für den Tiefbau: Massen, Soll/Ist, Fortschritt, GA
 <a href="https://speicherstadt.org/fixpunkt/"><b>Webseite</b></a>
 </td>
 <td width="50%" valign="top">
-<h3><img src="icons/coming-soon.svg" width="28" height="28" alt="" align="top">&nbsp; Coming soon</h3>
-<b>Hier entsteht das nächste Lagerhaus</b><br>
-Weitere Apps für den Betriebsalltag sind in Arbeit. Folg uns, um nichts zu verpassen.<br><br>
-<a href="https://github.com/Speicherstadt"><b>Auf GitHub folgen</b></a>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 <h3><img src="icons/steuerzentrale.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/steuerzentrale">Steuerzentrale</a></h3>
 <b>Betreibt alle Apps an einer Stelle</b><br>
-Installieren, aktualisieren, sichern und überwachen auf eigenen Servern, für dich oder deine Kunden.<br><br>
+Installieren, aktualisieren, sichern und überwachen, auf deinen eigenen Servern.<br><br>
 <a href="https://speicherstadt.org/steuerzentrale/"><b>Webseite</b></a> · <a href="https://speicherstadt.org/steuerzentrale/demo/"><b>Demo</b></a> &nbsp;<code>Release-Kandidat</code>
 </td>
 </tr>
