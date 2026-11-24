@@ -28,6 +28,7 @@ auf **[speicherstadt.org](https://speicherstadt.org/)**.
 | 📬 | **[Kontext](https://kontext.email/)** | Mail, Kalender, Kontakte, Aufgaben, Chat und CTI fürs Team | [kontext](https://github.com/Speicherstadt/kontext) |
 | 📝 | **[Schreibzeug](https://schreibzeug.app/)** | Word, Excel, PowerPoint, PDF und Markdown gemeinsam im Browser | [schreibzeug](https://github.com/Speicherstadt/schreibzeug) |
 | 🗄️ | **[Belegt](https://belegt.net/)** | Dokumentenarchiv mit GoBD-Modus | [belegt](https://github.com/Speicherstadt/belegt) |
+| 🔑 | **[Kennwort](https://kennwort.app/)** | Passwortmanager fürs Team, Ende-zu-Ende-verschlüsselt (Version 0.1 zum Ausprobieren) | [kennwort](https://github.com/Speicherstadt/kennwort) |
 | 📐 | **[Fixpunkt](https://speicherstadt.org/fixpunkt/)** | Aufmaß und Baustellendokumentation aus Drohnenflügen, vom Flug zur abrechenbaren Menge | [fixpunkt](https://github.com/Speicherstadt/fixpunkt) |
 | 🔁 | **[Stellwerk](https://speicherstadt.org/stellwerk/)** | Syncthing auf allen Geräten von einer Stelle aus verwalten | [stellwerk](https://github.com/Speicherstadt/stellwerk) |
 
