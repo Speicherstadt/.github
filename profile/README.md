@@ -28,13 +28,13 @@ Der Name führt zum Code, darunter geht es zur Webseite mit Anleitung. Alle zusa
 <h3><img src="icons/haben.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/haben">Haben</a></h3>
 <b>Buchhaltung bis zum Finanzamt</b><br>
 Rechnungen mit E-Rechnung (ZUGFeRD, XRechnung), Belege, Bankabgleich, EÜR oder Bilanz und die Steuern direkt an ELSTER. Für Freiberufler, Kleinunternehmer und kleine GmbHs.<br><br>
-<a href="https://haben.app/"><b>Webseite</b></a> · <sub>Beta</sub>
+<a href="https://haben.app/"><b>Webseite</b></a> &nbsp;<code>Beta</code>
 </td>
 <td width="50%" valign="top">
 <h3><img src="icons/belegt.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/belegt">Belegt</a></h3>
 <b>Dokumentenarchiv mit GoBD-Modus</b><br>
 Mails, E-Rechnungen und Scans an einem Ort, durchsuchbar. Was aufbewahrt werden muss, bleibt bis Fristende unverändert.<br><br>
-<a href="https://belegt.store/"><b>Webseite</b></a> · <a href="https://belegt.store/demo/"><b>Demo</b></a> · <sub>Beta</sub>
+<a href="https://belegt.store/"><b>Webseite</b></a> · <a href="https://belegt.store/demo/"><b>Demo</b></a> &nbsp;<code>Beta</code>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ Word, Excel, PowerPoint und PDF in Echtzeit, im Browser oder als Desktop-App. Di
 <h3><img src="icons/kennwort.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/kennwort">Kennwort</a></h3>
 <b>Passwortmanager fürs Team</b><br>
 Bank, Lieferantenportale und WLAN an einem Ort, Ende-zu-Ende-verschlüsselt und mit Post-Quanten-Schutz. Im Browser, als Erweiterung und im Terminal.<br><br>
-<a href="https://kennwort.app/"><b>Webseite</b></a> · <a href="https://kennwort.app/demo/"><b>Demo</b></a> · <sub>Version 0.1 zum Ausprobieren</sub>
+<a href="https://kennwort.app/"><b>Webseite</b></a> · <a href="https://kennwort.app/demo/"><b>Demo</b></a> &nbsp;<code>Version 0.1 zum Ausprobieren</code>
 </td>
 <td width="50%" valign="top">
 <h3><img src="icons/stellwerk.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/stellwerk">Stellwerk</a></h3>
