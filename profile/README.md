@@ -66,11 +66,16 @@ Projektordner und Pläne im Büro wie auf dem Laptop. Du legst an einer Stelle f
 </td>
 </tr>
 <tr>
-<td valign="top" colspan="2">
+<td width="50%" valign="top">
 <h3><img src="icons/fixpunkt.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/fixpunkt">Fixpunkt</a></h3>
 <b>Vom Drohnenflug zur abrechenbaren Menge</b><br>
 Aufmaß und Baustellendokumentation für den Erd- und Tiefbau: Massen je Abrechnungsbereich, Soll/Ist und Fortschritt, mit Lieferscheinen, GAEB X31 und Freigabe durch den Auftraggeber.<br><br>
 <a href="https://speicherstadt.org/fixpunkt/"><b>Webseite</b></a>
+</td>
+<td width="50%" valign="top">
+<h3><img src="icons/coming-soon.svg" width="28" height="28" alt="" align="top">&nbsp; Coming soon</h3>
+<b>Hier entsteht das nächste Lagerhaus</b><br>
+Weitere Apps für den Betriebsalltag sind in Arbeit. Wer nichts verpassen will, folgt der Organisation hier auf GitHub.
 </td>
 </tr>
 </table>
