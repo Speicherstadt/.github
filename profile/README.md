@@ -22,6 +22,9 @@ offen, auf deinem eigenen Server.
 Der Name führt zum Code, darunter geht es zur Webseite mit Anleitung. Alle zusammen auf
 **[speicherstadt.org](https://speicherstadt.org/)**.
 
+<code>Beta</code>: nutzbar, wird noch stark weiterentwickelt. <code>In Entwicklung</code>: zum Ausprobieren, noch
+nicht für den Echtbetrieb.
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -42,27 +45,27 @@ Mails, Rechnungen und Scans an einem Ort. Was Pflicht ist, bleibt unverändert.<
 <h3><img src="icons/kontext.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/kontext">Kontext</a></h3>
 <b>Mail, Kalender, Chat und Telefon</b><br>
 Die Alternative zu Google Workspace und Microsoft 365, im Browser und am Handy.<br><br>
-<a href="https://kontext.email/"><b>Webseite</b></a> · <a href="https://kontext.email/demo/"><b>Demo</b></a>
+<a href="https://kontext.email/"><b>Webseite</b></a> · <a href="https://kontext.email/demo/"><b>Demo</b></a> &nbsp;<code>Beta</code>
 </td>
 <td width="50%" valign="top">
 <h3><img src="icons/schreibzeug.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/schreibzeug">Schreibzeug</a></h3>
 <b>Office-Dateien gemeinsam bearbeiten</b><br>
 Word, Excel, PowerPoint und PDF in Echtzeit, im Browser oder als Desktop-App.<br><br>
-<a href="https://schreibzeug.app/"><b>Webseite</b></a> · <a href="https://schreibzeug.app/demo/"><b>Demo</b></a>
+<a href="https://schreibzeug.app/"><b>Webseite</b></a> · <a href="https://schreibzeug.app/demo/"><b>Demo</b></a> &nbsp;<code>Beta</code>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><img src="icons/kennwort.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/kennwort">Kennwort</a></h3>
-<b>Passwortmanager fürs Team</b><br>
-Zugänge zu Bank, Portalen und WLAN an einem Ort, Ende-zu-Ende-verschlüsselt.<br><br>
-<a href="https://kennwort.app/"><b>Webseite</b></a> · <a href="https://kennwort.app/demo/"><b>Demo</b></a> &nbsp;<code>Testversion 0.1</code>
-</td>
-<td width="50%" valign="top">
 <h3><img src="icons/stellwerk.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/stellwerk">Stellwerk</a></h3>
 <b>Dateien auf allen Rechnern aktuell</b><br>
 Du legst an einer Stelle fest, wer welchen Ordner bekommt. Syncthing gleicht ab.<br><br>
-<a href="https://speicherstadt.org/stellwerk/"><b>Webseite</b></a>
+<a href="https://speicherstadt.org/stellwerk/"><b>Webseite</b></a> &nbsp;<code>Beta</code>
+</td>
+<td width="50%" valign="top">
+<h3><img src="icons/kennwort.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/kennwort">Kennwort</a></h3>
+<b>Passwortmanager fürs Team</b><br>
+Zugänge zu Bank, Portalen und WLAN an einem Ort, Ende-zu-Ende-verschlüsselt.<br><br>
+<a href="https://kennwort.app/"><b>Webseite</b></a> · <a href="https://kennwort.app/demo/"><b>Demo</b></a> &nbsp;<code>In Entwicklung</code>
 </td>
 </tr>
 <tr>
@@ -70,13 +73,13 @@ Du legst an einer Stelle fest, wer welchen Ordner bekommt. Syncthing gleicht ab.
 <h3><img src="icons/fixpunkt.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/fixpunkt">Fixpunkt</a></h3>
 <b>Vom Drohnenflug zur abrechenbaren Menge</b><br>
 Aufmaß und Baudokumentation für den Tiefbau: Massen, Soll/Ist, Fortschritt, GAEB.<br><br>
-<a href="https://speicherstadt.org/fixpunkt/"><b>Webseite</b></a>
+<a href="https://speicherstadt.org/fixpunkt/"><b>Webseite</b></a> &nbsp;<code>In Entwicklung</code>
 </td>
 <td width="50%" valign="top">
 <h3><img src="icons/steuerzentrale.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/steuerzentrale">Steuerzentrale</a></h3>
 <b>Betreibt alle Apps an einer Stelle</b><br>
 Installieren, aktualisieren, sichern und überwachen, auf deinen eigenen Servern.<br><br>
-<a href="https://speicherstadt.org/steuerzentrale/"><b>Webseite</b></a> · <a href="https://speicherstadt.org/steuerzentrale/demo/"><b>Demo</b></a> &nbsp;<code>Release-Kandidat</code>
+<a href="https://speicherstadt.org/steuerzentrale/"><b>Webseite</b></a> · <a href="https://speicherstadt.org/steuerzentrale/demo/"><b>Demo</b></a> &nbsp;<code>In Entwicklung</code>
 </td>
 </tr>
 </table>
