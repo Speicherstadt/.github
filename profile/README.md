@@ -70,10 +70,10 @@ Zugänge zu Bank, Portalen und WLAN an einem Ort, Ende-zu-Ende-verschlüsselt.<b
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><img src="icons/fixpunkt.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/fixpunkt">Fixpunkt</a></h3>
-<b>Vom Drohnenflug zur abrechenbaren Menge</b><br>
-Aufmaß und Baudokumentation für den Tiefbau: Massen, Soll/Ist, Fortschritt, GAEB.<br><br>
-<a href="https://speicherstadt.org/fixpunkt/"><b>Webseite</b></a> &nbsp;<code>In Entwicklung</code>
+<h3><img src="icons/soll.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/soll">Soll</a></h3>
+<b>Zeiterfassung und Dienstplan</b><br>
+Stempeln im Web, am Handy und am Tablet, Prüfung nach Arbeitszeitgesetz, DATEV-Lohnexport.<br><br>
+<a href="https://soll.work/"><b>Webseite</b></a> · <a href="https://soll.work/demo/"><b>Demo</b></a> &nbsp;<code>In Entwicklung</code>
 </td>
 <td width="50%" valign="top">
 <h3><img src="icons/steuerzentrale.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/steuerzentrale">Steuerzentrale</a></h3>
