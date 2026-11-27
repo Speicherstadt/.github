@@ -59,7 +59,7 @@ Word, Excel, PowerPoint und PDF in Echtzeit, im Browser oder als Desktop-App.<br
 <h3><img src="icons/stellwerk.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/stellwerk">Stellwerk</a></h3>
 <b>Dateien auf allen Rechnern aktuell</b><br>
 Du legst an einer Stelle fest, wer welchen Ordner bekommt. Syncthing gleicht ab.<br><br>
-<a href="https://speicherstadt.org/stellwerk/"><b>Webseite</b></a> &nbsp;<code>Beta</code>
+<a href="https://speicherstadt.org/stellwerk/"><b>Webseite</b></a> · <a href="https://speicherstadt.org/stellwerk/demo/"><b>Demo</b></a> &nbsp;<code>Beta</code>
 </td>
 <td width="50%" valign="top">
 <h3><img src="icons/kennwort.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/kennwort">Kennwort</a></h3>
