@@ -30,27 +30,27 @@ nicht für den Echtbetrieb.
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Speicherstadt/haben/stargazers"><img src="https://img.shields.io/github/stars/Speicherstadt/haben?style=flat&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2Y1YzQ1MSIgZD0iTTggLjhsMi4yIDQuNiA1IC43LTMuNiAzLjUuOSA1TDggMTIuMmwtNC41IDIuNC45LTVMLjggNi4xbDUtLjd6Ii8%2BPC9zdmc%2B&labelColor=444&color=555" alt="Sterne auf GitHub" align="right"></a><img src="icons/haben.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/haben">Haben</a></h3>
 <b>Buchhaltung bis zum Finanzamt</b><br>
-Rechnungen, Belege, Bankabgleich, EÜR oder Bilanz und die Steuern direkt an ELSTER.<br><br>
+Angebote, Rechnungen, Belege, Bankabgleich, Lohn, EÜR oder Bilanz und die Steuern direkt an ELSTER.<br><br>
 <a href="https://haben.app/"><b>Webseite</b></a> <img src="https://img.shields.io/badge/Beta-3a9a83" alt="Beta" align="right">
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Speicherstadt/belegt/stargazers"><img src="https://img.shields.io/github/stars/Speicherstadt/belegt?style=flat&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2Y1YzQ1MSIgZD0iTTggLjhsMi4yIDQuNiA1IC43LTMuNiAzLjUuOSA1TDggMTIuMmwtNC41IDIuNC45LTVMLjggNi4xbDUtLjd6Ii8%2BPC9zdmc%2B&labelColor=444&color=555" alt="Sterne auf GitHub" align="right"></a><img src="icons/belegt.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/belegt">Belegt</a></h3>
 <b>Dokumentenarchiv mit GoBD-Modus</b><br>
-Mails, Rechnungen und Scans an einem Ort. Was Pflicht ist, bleibt unverändert.<br><br>
+Mails direkt aus dem Postfach, E-Rechnungen und Scans an einem Ort. Was Pflicht ist, bleibt unverändert.<br><br>
 <a href="https://belegt.store/"><b>Webseite</b></a> · <a href="https://belegt.store/demo/"><b>Demo</b></a> <img src="https://img.shields.io/badge/Beta-3a9a83" alt="Beta" align="right">
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Speicherstadt/kontext/stargazers"><img src="https://img.shields.io/github/stars/Speicherstadt/kontext?style=flat&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2Y1YzQ1MSIgZD0iTTggLjhsMi4yIDQuNiA1IC43LTMuNiAzLjUuOSA1TDggMTIuMmwtNC41IDIuNC45LTVMLjggNi4xbDUtLjd6Ii8%2BPC9zdmc%2B&labelColor=444&color=555" alt="Sterne auf GitHub" align="right"></a><img src="icons/kontext.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/kontext">Kontext</a></h3>
-<b>Mail, Kalender, Chat und Telefon</b><br>
-Die Alternative zu Google Workspace und Microsoft 365, im Browser und am Handy.<br><br>
+<b>Mail, Kalender, Chat, Video und Telefon</b><br>
+Mit gemeinsamen Postfächern und Aufgaben. Die Alternative zu Google Workspace und Microsoft 365, im Browser und am Handy.<br><br>
 <a href="https://kontext.email/"><b>Webseite</b></a> · <a href="https://kontext.email/demo/"><b>Demo</b></a> <img src="https://img.shields.io/badge/Beta-3a9a83" alt="Beta" align="right">
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Speicherstadt/schreibzeug/stargazers"><img src="https://img.shields.io/github/stars/Speicherstadt/schreibzeug?style=flat&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2Y1YzQ1MSIgZD0iTTggLjhsMi4yIDQuNiA1IC43LTMuNiAzLjUuOSA1TDggMTIuMmwtNC41IDIuNC45LTVMLjggNi4xbDUtLjd6Ii8%2BPC9zdmc%2B&labelColor=444&color=555" alt="Sterne auf GitHub" align="right"></a><img src="icons/schreibzeug.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/schreibzeug">Schreibzeug</a></h3>
 <b>Office-Dateien gemeinsam bearbeiten</b><br>
-Word, Excel, PowerPoint und PDF in Echtzeit, im Browser oder als Desktop-App.<br><br>
+Word, Excel, PowerPoint, PDF und Markdown in Echtzeit, im Browser oder als Desktop-App. PDFs ausfüllen, unterschreiben und schwärzen.<br><br>
 <a href="https://schreibzeug.app/"><b>Webseite</b></a> · <a href="https://schreibzeug.app/demo/"><b>Demo</b></a> <img src="https://img.shields.io/badge/Beta-3a9a83" alt="Beta" align="right">
 </td>
 </tr>
@@ -72,7 +72,7 @@ Zugänge zu Bank, Portalen und WLAN an einem Ort, Ende-zu-Ende-verschlüsselt.<b
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Speicherstadt/soll/stargazers"><img src="https://img.shields.io/github/stars/Speicherstadt/soll?style=flat&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2Y1YzQ1MSIgZD0iTTggLjhsMi4yIDQuNiA1IC43LTMuNiAzLjUuOSA1TDggMTIuMmwtNC41IDIuNC45LTVMLjggNi4xbDUtLjd6Ii8%2BPC9zdmc%2B&labelColor=444&color=555" alt="Sterne auf GitHub" align="right"></a><img src="icons/soll.svg" width="28" height="28" alt="" align="top">&nbsp; <a href="https://github.com/Speicherstadt/soll">Soll</a></h3>
 <b>Zeiterfassung und Dienstplan</b><br>
-Stempeln im Web, am Handy und am Tablet, Prüfung nach Arbeitszeitgesetz, DATEV-Lohnexport.<br><br>
+Stempeln im Web, am Handy und am Tablet, Prüfung nach Arbeitszeitgesetz, Urlaub, Projektzeit und DATEV-Lohnexport.<br><br>
 <a href="https://soll.work/"><b>Webseite</b></a> · <a href="https://soll.work/demo/"><b>Demo</b></a> <img src="https://img.shields.io/badge/In%20Entwicklung-d0683f" alt="In Entwicklung" align="right">
 </td>
 <td width="50%" valign="top">
